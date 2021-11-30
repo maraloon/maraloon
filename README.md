@@ -10,9 +10,8 @@
 - 🐻 PHP, Symfony, Laravel
 - 🐶 TypeScript, webRTC, rxJS
 - 🦊 I’m interested in math, music creating, psychiatry and psychology, flovers and botanica, rats and cats, style and make-up
-- 🐨 I’m currently learning NodeJS on Hexlet.io
-- 🐰 Plan to pump-up spoken english, math disciplines, algorythms and structures, DevOps, Go and ReactJs
-- 🙈 Intrested in accessibility, diversity, blockchain and coins.
+- 🐨 Now learning: NodeJS, Clojure, Go
+- 🐰 Plan to pump-up spoken english, math disciplines, algorythms and structures, DevOps, and ReactJs
 - 🐮 Have mixed personality disorder (BorderlinePD, HistrionicPD and SchizoidPD)
 - 🏳️‍⚧️ Transgender
 
