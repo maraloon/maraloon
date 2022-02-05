@@ -12,14 +12,12 @@
 - 🦊 I’m interested in math, music creating, psychiatry and psychology, flovers and botanica, rats and cats, style and make-up
 - 🐨 Now learning: NodeJS, Clojure, Go
 - 🐰 Plan to pump-up spoken english, math disciplines, algorythms and structures, DevOps, and ReactJs
-- 🐮 Have mixed personality disorder (BorderlinePD, HistrionicPD and SchizoidPD)
 - 🏳️‍⚧️ Transgender
 
 <h3 align="left">Connect with me:</h3>
 
 - Mail: <a href="mailto:mara@the-witch.ru">mara@the-witch.ru</a>
 - <a href="https://linkedin.com/in/maraloon">LinkedIn</a>
-- <a href="https://twitter.com/mara.loon" target="blank">Twitter (ru)</a>
 
 <!---
 maraloon/maraloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
