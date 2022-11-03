@@ -5,7 +5,7 @@
 <img align="right" alt="gif" src="https://c.tenor.com/KdZkeFEhZewAAAAC/nap-crt.gif" width="450">
 <p align="left">
 
-- 🇷🇺 Saint Petersburg, Russia
+- 🇬🇪 Tbilisi, Georgia
 - 🐱 Now looking for remote job mainly as a backend
 - 🐻 PHP, Symfony, Laravel
 - 🐶 TypeScript, webRTC, rxJS
