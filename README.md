@@ -6,12 +6,11 @@
 <p align="left">
 
 - 🇬🇪 Tbilisi, Georgia
-- 🐱 Now looking for remote job mainly as a backend
-- 🐻 PHP, Symfony, Laravel
-- 🐶 TypeScript, webRTC, rxJS
-- 🦊 I’m interested in math, music creating, psychiatry and psychology, flovers and botanica, rats and cats, style and make-up
-- 🐨 Now learning: NodeJS, Clojure, Go
-- 🐰 Plan to pump-up spoken english, math disciplines, algorythms and structures, DevOps, and ReactJs
+- 🐱 Software Backend Engeneer
+- 🐻 Expert: PHP, Laravel 
+- 🐶 Good at: Symfony, TypeScript, webRTC, rxJS, Vue
+- 🐨 Touch: NodeJS, Clojure, Go
+- 🦊 My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk 
 - 🏳️‍⚧️ Transgender
 
 <h3 align="left">Connect with me:</h3>
