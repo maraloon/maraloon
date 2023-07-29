@@ -5,7 +5,7 @@
 <img align="right" alt="gif" src="https://c.tenor.com/KdZkeFEhZewAAAAC/nap-crt.gif" width="450">
 <p align="left">
 
-- 🇬🇪 Tbilisi, Georgia
+- 🇬🇪 Saint Pererburg, Russia
 - 🐱 Software Backend Engeneer
 - 🐻 Expert: PHP, Laravel 
 - 🐶 Good at: Symfony, TypeScript, webRTC, rxJS, Vue, Go
