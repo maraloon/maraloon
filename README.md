@@ -20,7 +20,7 @@
 <a href="https://github.com/maraloon/payment-part">Payment microservice on Laravel</a>
 
 <h4 align="left">Pet project</h3>
-<a href="https://github.com/maraloon/personal-website">JAM stack site. E11y, Tailwind</a>
+<a href="https://github.com/maraloon/personal-website">JAM stack site. E11y, Tailwind</a><br>
 <a href="https://github.com/maraloon/monkey-int">Intepreter on Go</a>
 
 <h4 align="left">Test tasks</h3>
