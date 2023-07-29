@@ -23,7 +23,7 @@
 <a href="https://github.com/maraloon/personal-website">JAM stack site. E11y, Tailwind</a><br>
 <a href="https://github.com/maraloon/monkey-int">Intepreter on Go</a><br>
 <a href="https://github.com/maraloon/php-intepreter">PHP intepreter on Rust</a><br>
-<a herf="https://github.com/maraloon/dotfiles">.dotfiles</a>
+<a href="https://github.com/maraloon/dotfiles">.dotfiles</a>
 
 <h4 align="left">Test tasks</h3>
 <a href="https://github.com/maraloon/tax">Taxes</a>, 
