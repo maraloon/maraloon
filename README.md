@@ -21,12 +21,14 @@
 
 <h4 align="left">Pet project</h3>
 <a href="https://github.com/maraloon/personal-website">JAM stack site. E11y, Tailwind</a><br>
-<a href="https://github.com/maraloon/monkey-int">Intepreter on Go</a>
+<a href="https://github.com/maraloon/monkey-int">Intepreter on Go</a><br>
+<a href="https://github.com/maraloon/php-intepreter">PHP intepreter on Rust</a><br>
+<a herf="https://github.com/maraloon/dotfiles">.dotfiles</a>
 
 <h4 align="left">Test tasks</h3>
-<a href="https://github.com/maraloon/tax">Taxes</a><br>
-<a href="https://github.com/maraloon/text-parser">Text parser</a><br>
-<a href="https://github.com/maraloon/avangard-test">Laravel test task</a><br>
+<a href="https://github.com/maraloon/tax">Taxes</a>, 
+<a href="https://github.com/maraloon/text-parser">Text parser</a>, 
+<a href="https://github.com/maraloon/avangard-test">Laravel test task</a>,
 <a href="https://github.com/maraloon/miniblog">Miniblog without framework</a>
   
 
