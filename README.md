@@ -8,8 +8,8 @@
 - 🇬🇪 Tbilisi, Georgia
 - 🐱 Software Backend Engeneer
 - 🐻 Expert: PHP, Laravel 
-- 🐶 Good at: Symfony, TypeScript, webRTC, rxJS, Vue
-- 🐨 Touch: NodeJS, Clojure, Go
+- 🐶 Good at: Symfony, TypeScript, webRTC, rxJS, Vue, Go
+- 🐨 Touch: NodeJS, Clojure, Rust
 - 🦊 My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk 
 - 🏳️‍⚧️ Transgender
 
