@@ -5,13 +5,13 @@
 <img align="right" alt="gif" src="https://c.tenor.com/KdZkeFEhZewAAAAC/nap-crt.gif" width="450">
 <p align="left">
 
-- 🇬🇪 Saint Pererburg, Russia
-- 🐱 Software Backend Engeneer
-- 🐻 Expert: PHP, Laravel 
-- 🐶 Good at: Symfony, TypeScript, webRTC, rxJS, Vue, Go
-- 🐨 Touch: NodeJS, Clojure, Rust, Lua
-- 🦊 My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk 
-- 🏳️‍⚧️ Transgender
+- Saint Pererburg, Russia
+- Software Backend Engeneer
+- Expert: PHP, Laravel 
+- Good at: Symfony, TypeScript, webRTC, rxJS, Vue, Go
+- Touch: NodeJS, Clojure, Rust, Lua
+- My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk 
+
 
 <h3>What to see in my github</h3>
 
