@@ -7,29 +7,17 @@
 
 - Saint Pererburg, Russia
 - Software Backend Engeneer
-- Expert: PHP, Laravel 
-- Good at: Symfony, TypeScript, webRTC, rxJS, Vue, Go
+- Expert: PHP, Laravel, Go
+- Good at: Symfony, TypeScript, webRTC, rxJS, Vue
 - Touch: NodeJS, Clojure, Rust, Lua
 - My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk 
 
-
-<h3>What to see in my github</h3>
-
-<h4 align="left">Product code</h3>
-<a href="https://github.com/maraloon/cars-structure">Backend library on Laravel</a><br>
-<a href="https://github.com/maraloon/payment-part">Payment microservice on Laravel</a>
-
-<h4 align="left">Pet project</h3>
+<h4 align="left">Pins</h3>
+<a href="https://github.com/maraloon/tui-datepicker">TUI datepicker</a><br>
 <a href="https://github.com/maraloon/personal-website">JAM stack site. E11y, Tailwind</a><br>
-<a href="https://github.com/maraloon/monkey-int">Intepreter on Go</a><br>
+<a href="https://github.com/maraloon/monkey-int">Lang intepreter on Go</a><br>
 <a href="https://github.com/maraloon/php-intepreter">PHP intepreter on Rust</a><br>
 <a href="https://github.com/maraloon/dotfiles">.dotfiles</a>
-
-<h4 align="left">Test tasks</h3>
-<a href="https://github.com/maraloon/tax">Taxes</a>, 
-<a href="https://github.com/maraloon/text-parser">Text parser</a>, 
-<a href="https://github.com/maraloon/avangard-test">Laravel test task</a>,
-<a href="https://github.com/maraloon/miniblog">Miniblog without framework</a>
   
 
 <h3 align="left">Connect with me:</h3>
