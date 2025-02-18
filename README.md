@@ -1,7 +1,5 @@
 <h1>Hello folks, I'm Mara 🧙🏼‍♀️</h1>
 
-<h3>Software developer engeneer</h3>
-
 <img align="right" alt="gif" src="https://c.tenor.com/KdZkeFEhZewAAAAC/nap-crt.gif" width="450">
 <p align="left">
 
