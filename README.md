@@ -6,8 +6,7 @@
 - Software Backend Engeneer
 - Langs: Go, PHP, Rust
 - A little bit: NodeJS, Clojure, Lua
-- My geeky pleasure: *nix, command line, (neo)vim, #keeb, qmk, soldering, diy
-
+- Geek at: arch linux, neovim, TUIs, split keyboards, qmk, soldering, CRT monitors
 <h4 align="left">Pins</h3>
 <a href="https://github.com/maraloon/tui-datepicker">TUI datepicker (go)</a><br>
 <a href="https://github.com/maraloon/personal-website">JAM stack site (E11y, Tailwind)</a><br>
